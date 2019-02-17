@@ -8,7 +8,7 @@ Usage :
 $ sh ds.sh
 or
 $ chmod 777 ds.sh
-$ ds.sh
+$ ./ds.sh
 Password Shell : bner
 ```
 
