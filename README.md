@@ -13,5 +13,5 @@ Password Shell : bner
 ```
 
 # ScreenShoot
-![alt text](https://img.techpowerup.org/190217/banneer.png)
+
 ![alt text](https://img.techpowerup.org/190217/tes.png)
